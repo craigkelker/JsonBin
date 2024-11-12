@@ -49,5 +49,22 @@
     "country":"United States",
     "inventory_quantity":1,
     "inventory_policy":1
+  },
+  {
+    "id":"CA1",
+    "title":"HORACE MANN ELEMENTARY Cafeteria/MPR",
+    "link":"https://facilities.facilitron.com/594c7b7c0a135a0021f6b39d",
+    "description":"Multi-purpose room is equipped with rolling in wall tables, chairs, and a stage. This space is perfect for large meetings, performances, classes, seminars, and many more activities. The kitchen/serving area can also be added at an extra cost.",
+    "price":10,
+    "image_link":"https://d2rzw8waxoxhv2.cloudfront.net/facilities/large/1fc89068e86fcc2e21ec/1498422682489-681-26.jpg",
+    "categories":["cafeteria","indoor space"],
+    "address1":"55 North 7th Street",
+    "address2":"Suite 1",
+    "city":"San Jose",
+    "region":"CA",
+    "zip":"95112",
+    "country":"United States",
+    "inventory_quantity":1,
+    "inventory_policy":1
   }
 ]
