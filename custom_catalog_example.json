@@ -13,7 +13,7 @@
     "region":"NJ",
     "zip":"07102",
     "country":"United States",
-    "inventory_quantity":20,
+    "inventory_quantity":1,
     "inventory_policy":1
   },
   {
@@ -30,7 +30,7 @@
     "region":"NM",
     "zip":"87111",
     "country":"United States",
-    "inventory_quantity":10,
+    "inventory_quantity":1,
     "inventory_policy":1
   },
   {
@@ -47,7 +47,7 @@
     "region":"IN",
     "zip":"47280",
     "country":"United States",
-    "inventory_quantity":0,
+    "inventory_quantity":1,
     "inventory_policy":1
   }
 ]
