@@ -1,0 +1,42 @@
+{
+  "Indiana": {
+    "PrimaryColor": "#DC143C",
+    "SecondaryColor": "#000000",
+    "Logoname": "indiana_logo.jpg"
+  },
+  "Purdue": {
+    "PrimaryColor": "#C28E0E",
+    "SecondaryColor": "#000000",
+    "Logoname": "purdue_logo.jpg"
+  },
+  "Michigan": {
+    "PrimaryColor": "#00274C",
+    "SecondaryColor": "#FFCB05",
+    "Logoname": "michigan_logo.jpg"
+  },
+  "Ohio State": {
+    "PrimaryColor": "#BB0000",
+    "SecondaryColor": "#666666",
+    "Logoname": "ohiostate_logo.jpg"
+  },
+  "Wisconsin": {
+    "PrimaryColor": "#C5050C",
+    "SecondaryColor": "#FFFFFF",
+    "Logoname": "wisconsin_logo.jpg"
+  },
+  "Illinois": {
+    "PrimaryColor": "#E84A27",
+    "SecondaryColor": "#13294B",
+    "Logoname": "illinois_logo.jpg"
+  },
+  "Penn State": {
+    "PrimaryColor": "#041E42",
+    "SecondaryColor": "#FFFFFF",
+    "Logoname": "pennstate_logo.jpg"
+  },
+  "Michigan State": {
+    "PrimaryColor": "#18453B",
+    "SecondaryColor": "#FFFFFF",
+    "Logoname": "michiganstate_logo.jpg"
+  }
+}
