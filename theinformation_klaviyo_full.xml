@@ -1,2 +1,30 @@
 <?xml version="1.0"?>
-<Products><Product><id>tag:www.theinformation.com,2005:Briefing/14989</id><title>OpenAI Held Acquisition Talks with Owner of Coding Assistant Cursor</title><link>https://www.theinformation.com/briefings/openai-held-acquisition-talks-owner-coding-assistant-cursor</link><description>OpenAI late last year discussed acquiring Anysphere, the developer of popular coding assistant Cursor, according to a person familiar with the talks. Around that time, OpenAI was in similar discussion</description><price>0</price><image_link>https://tii.imgix.net/production/articles/14876/e52a0f11-fb80-43b5-818e-8c93c497a974.jpg</image_link><categories>news,technology</categories></Product><Product><id>tag:www.theinformation.com,2005:Article/14880</id><title>Creator Startup Funding Hits Highest Level Since 2021</title><link>https://www.theinformation.com/articles/creator-startup-funding-hits-highest-level-since-2021</link><description>U.S. creator economy startups raised more money in the first three months of the year than in any quarter since 2021 as investors placed bigger bets on companies tied to music, artificial intelligence</description><price>0</price><image_link>https://tii.imgix.net/production/articles/14877/aede844e-e184-494c-9fb2-a7f5beb06ce5-JKNiir.png</image_link><categories>news,technology</categories></Product><Product><id>tag:www.theinformation.com,2005:Article/14879</id><title>The 30 Most and Least Common Uses of AI</title><link>https://www.theinformation.com/articles/30-least-common-uses-ai</link><description>Executives’ growing willingness to say publicly that they are forgoing hiring in favor of artificial intelligence might be a sign of the times. Businesses are facing more uncertainty than they have in</description><price>0</price><image_link>https://tii.imgix.net/production/articles/14897/087b0035-f88f-4a52-8b14-46496d5ce53f-YqzRI0.jpg</image_link><categories>news,technology</categories></Product></Products>
+<Products>
+  <Product>
+    <id>tag:www.theinformation.com,2005:Briefing/14989</id>
+    <title>OpenAI Held Acquisition Talks with Owner of Coding Assistant Cursor</title>
+    <link>https://www.theinformation.com/briefings/openai-held-acquisition-talks-owner-coding-assistant-cursor</link>
+    <description>OpenAI late last year discussed acquiring Anysphere, the developer of popular coding assistant Cursor, according to a person familiar with the talks. Around that time, OpenAI was in similar discussion</description>
+    <price>0</price>
+    <image_link>https://tii.imgix.net/production/articles/14876/e52a0f11-fb80-43b5-818e-8c93c497a974.jpg</image_link>
+    <categories>news,technology</categories>
+  </Product>
+  <Product>
+    <id>tag:www.theinformation.com,2005:Article/14880</id>
+    <title>Creator Startup Funding Hits Highest Level Since 2021</title>
+    <link>https://www.theinformation.com/articles/creator-startup-funding-hits-highest-level-since-2021</link>
+    <description>U.S. creator economy startups raised more money in the first three months of the year than in any quarter since 2021 as investors placed bigger bets on companies tied to music, artificial intelligence</description>
+    <price>0</price>
+    <image_link>https://tii.imgix.net/production/articles/14877/aede844e-e184-494c-9fb2-a7f5beb06ce5-JKNiir.png</image_link>
+    <categories>news,technology</categories>
+  </Product>
+  <Product>
+    <id>tag:www.theinformation.com,2005:Article/14879</id>
+    <title>The 30 Most and Least Common Uses of AI</title>
+    <link>https://www.theinformation.com/articles/30-least-common-uses-ai</link>
+    <description>Executives&#8217; growing willingness to say publicly that they are forgoing hiring in favor of artificial intelligence might be a sign of the times. Businesses are facing more uncertainty than they have in</description>
+    <price>0</price>
+    <image_link>https://tii.imgix.net/production/articles/14897/087b0035-f88f-4a52-8b14-46496d5ce53f-YqzRI0.jpg</image_link>
+    <categories>news,technology</categories>
+  </Product>
+</Products>
