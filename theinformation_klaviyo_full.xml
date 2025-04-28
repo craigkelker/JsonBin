@@ -27,4 +27,13 @@
     <image_link>https://tii.imgix.net/production/articles/14897/087b0035-f88f-4a52-8b14-46496d5ce53f-YqzRI0.jpg</image_link>
     <categories>news,technology</categories>
   </Product>
+  <Product>
+    <id>tag:www.theinformation.com,2005:Article/1484444</id>
+    <title>The NFL Loves Netflix. But Does Netflix Want to Love the NFL?</title>
+    <link>https://www.theinformation.com/articles/nfl-loves-netflix-netflix-want-love-nfl</link>
+    <description>Join high-powered tech and business leaders who read The Information every day.</description>
+    <price>0</price>
+    <image_link>https://tii.imgix.net/production/articles/14927/11762f23-9cfb-4d76-bb9b-14d6c418a57e.jpg?auto=compress&fit=crop&auto=format&w=400&dpr=4.5</image_link>
+    <categories>news,sports</categories>
+  </Product>  
 </Products>
