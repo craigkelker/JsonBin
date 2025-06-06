@@ -2,6 +2,6 @@
   "schools": [
     {"name": "Indiana","PrimaryColor": "#DC143C","SecondaryColor": "#000000","Logoname": "https://images.seeklogo.com/logo-png/31/1/indiana-hoosiers-logo-png_seeklogo-317300.png"},
     {"name": "Purdue","PrimaryColor": "#C28E0E","SecondaryColor": "#000000","Logoname": "purdue_logo.jpg"},
-    {"name": "Michigan","PrimaryColor": "#00274C","SecondaryColor": "#FFCB05","Logoname": "michigan_logo.jpg"}
+    {"name": "Michigan","PrimaryColor": "#00274C","SecondaryColor": "#FFCB05","Logoname": "https://images.seeklogo.com/logo-png/32/1/michigan-wolverines-logo-png_seeklogo-324302.png"}
   ]
 }
