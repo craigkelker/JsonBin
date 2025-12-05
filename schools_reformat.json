@@ -1,8 +1,8 @@
 {
   "Indiana": 
-    {"name": "Indiana","PrimaryColor": "#DC143C","SecondaryColor": "#FDFDE0","Logoname": "https://images.seeklogo.com/logo-png/31/1/indiana-hoosiers-logo-png_seeklogo-317300.png"},
+    {"name": "Indiana University","PrimaryColor": "#DC143C","SecondaryColor": "#FDFDE0","Logoname": "https://images.seeklogo.com/logo-png/31/1/indiana-hoosiers-logo-png_seeklogo-317300.png"},
 "Purdue":
-    {"name": "Purdue","PrimaryColor": "#C28E0E","SecondaryColor": "#CACC00","Logoname": "https://1000logos.net/wp-content/uploads/2018/04/Purdue-University-Logo.png"},
+    {"name": "Purdue University","PrimaryColor": "#C28E0E","SecondaryColor": "#CACC00","Logoname": "https://1000logos.net/wp-content/uploads/2018/04/Purdue-University-Logo.png"},
 "Michigan":
-    {"name": "Michigan","PrimaryColor": "#00274C","SecondaryColor": "#FFCB05","Logoname": "https://images.seeklogo.com/logo-png/32/1/michigan-wolverines-logo-png_seeklogo-324302.png"}
+    {"name": "University of Michigan","PrimaryColor": "#00274C","SecondaryColor": "#FFCB05","Logoname": "https://images.seeklogo.com/logo-png/32/1/michigan-wolverines-logo-png_seeklogo-324302.png"}
 }
